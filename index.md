@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## 5d Web | The Great Awakening of 5d consciousness on 5D Web a Handshake(HNS) domain; We "Shape Reality" by establishing the "I" as the center of gravity. This first of its kind buisness is built on a Handshake(HNS) blockchain root level domain that is dismantling the monopoly in 2021 by Looking Within to the Source, at the root of perception. Handshake helps us resolve self sovereignty by allowing true ownership of authentic web space vs. renting a sub-identity on the internet.
 
-You can use the [editor on GitHub](https://github.com/BeeChains/5dweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
+We are changing the world wide web one I and Handshake at a time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeeChains/5dweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# [The Great Awakening of 5D Consciousness](https://www.globalrecharge.guru/the-great-awakening-from-3d-4d-5d-consciousness-to-a-higher-frequency-of-energy-is-currently-creating-a-massive-planetary-shift-into-5d-consciousness/)
