@@ -4,5 +4,5 @@
 We are changing the world wide web one I and Handshake at a time.
 
 
-# - [5D Web/](http://innericompany.5dweb.hns.to/)
+# - [5D Web/](http://5dweb.hns.to/)
 # - [The Great Awakening of 5D Consciousness](https://www.globalrecharge.guru/the-great-awakening-from-3d-4d-5d-consciousness-to-a-higher-frequency-of-energy-is-currently-creating-a-massive-planetary-shift-into-5d-consciousness/)
